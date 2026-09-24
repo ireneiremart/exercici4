@@ -10,3 +10,4 @@ Practica 2 fent fork
 - [Jonman Jimenez Mendoza](files/JJM.md)
 - [Jesus Alvarez Olmo](files/jao.md)
 - [RA.](files/RA.md)
+- Colaboración de Irene Pastor

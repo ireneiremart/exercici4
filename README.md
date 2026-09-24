@@ -9,4 +9,5 @@ Practica 2 fent fork
 - [XGF](files/xgf.md)
 - [Jonman Jimenez Mendoza](files/JJM.md)
 - [Jesus Alvarez Olmo](files/jao.md)
+- [Irene Pastor Altur](files/ip.md)
 
